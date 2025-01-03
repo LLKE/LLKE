@@ -13,10 +13,7 @@ I'm an electrical engineering, information technology, and computer science stud
 * <i class="fa-solid fa-school"></i>  I'm currently learning about embedded systems.
 * <i class="fa-solid fa-handshake"></i>  I'm open to collaborating on anything to do with autonomous vehicles (sky, space, water or ground) or automation.
 
-### Skills
-
 ## Skills  
----
 
 **Technical**  
 <p align="left">
