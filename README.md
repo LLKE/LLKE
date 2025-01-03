@@ -28,7 +28,7 @@ I'm an electrical engineering, information technology, and computer science stud
 * Organized and independent way of working
 
 ## Languages
----
+
 **Mother Tongue**  
 * 🇬🇧 English  
 * 🇩🇪 German  
